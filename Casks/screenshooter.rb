@@ -1,6 +1,6 @@
 cask "screenshooter" do
-  version "2.0.0"
-  sha256 "60242a0c892264f81e7432f569f5b61aae9f98878175714ed5fedcd20b46943c"
+  version "2.1.0"
+  sha256 "ed36d3f749cd81223620eeae0c0577184d8e39317f812094f66b88b11fd5309d"
 
   url "https://github.com/lozhka13/Screenshooter/releases/download/v#{version}/Screenshooter-#{version}.dmg"
   name "Screenshooter"
